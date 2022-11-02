@@ -1,0 +1,3 @@
+Hello World!
+Practicing git commands today.
+Learing to navigate the terminal is fun and surrisingly easy.
