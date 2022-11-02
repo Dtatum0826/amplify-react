@@ -1,3 +1,4 @@
 Hello World!
 Practicing git commands today.
 Learing to navigate the terminal is fun and surrisingly easy.
+Well I'm sure with consistent practice it will be.
